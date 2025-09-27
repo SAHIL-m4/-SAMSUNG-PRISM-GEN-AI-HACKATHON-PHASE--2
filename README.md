@@ -1,6 +1,6 @@
 # -SAMSUNG-PRISM-GEN-AI-HACKATHON-PHASE--2
-Gen Ai hackathon phase 2 .    |  Theme : Home ai and Smart automation  
-NAME : MOHAMMED SAHIL T S
-TEAM NAME : MS51
-REG NO : RA2411003011651
+Gen Ai hackathon phase 2 .    |  Theme : Home ai and Smart automation   |
+NAME : MOHAMMED SAHIL T S     |
+TEAM NAME : MS51        |
+REG NO : RA2411003011651   |
 SRM INSTITUTE OF SCIENCE AND TECHNOLOGY KTR CAMPUS
